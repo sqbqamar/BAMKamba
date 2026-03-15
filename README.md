@@ -2,7 +2,7 @@
 
 **Boundary-Aware Multi-Scale State-Space Networks with Adaptive Feature Calibration for Medical Image Segmentation**
 
-Official PyTorch implementation.
+
 
 ## Architecture
 
